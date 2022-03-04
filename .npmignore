@@ -1,0 +1,12 @@
+# deps
+.gitignore
+.prettierrc
+
+.git/
+.unotes/
+node_modules/
+
+# source
+*.ts
+!*.d.ts
+tsconfig.json
